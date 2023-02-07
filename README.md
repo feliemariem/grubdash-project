@@ -23,6 +23,8 @@ GrubDash frontend
 While it was not required, if I wanted to see the project connected to a frontend application, I can visit the following repository:
 [Link: Grub-Dash-Front-End](https://github.com/Thinkful-Ed/starter-grub-dash-front-end)
 
+![Grub dash front end](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/1fc7f916e2146e659f7934a73b103e25-home.png)
+
 ### Project setup
 Follow the instructions below to get this project up and running on your own machine:
 
